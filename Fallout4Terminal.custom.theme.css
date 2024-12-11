@@ -1,0 +1,29 @@
+:root,
+.theme-dark,
+.theme-light {
+  .categoryHeader_fe2299 {
+    background: var(--rbg-text);
+    color: var(--rgb-highlight);
+  }
+  .colorHeaderPrimary_d1aa77 {
+    background: var(--bg-brand);
+    color: var(--background);
+  }
+  .inner_c69a7b {
+    --profile-gradient-start: #000000;
+    --profile-gradient-end: #000000;
+  }
+  .outer_c69a7b {
+    --profile-gradient-primary-color: var(--rgb-text);
+  }
+  .overlay_c69a7b {
+    background: #ffffff00;
+  }
+  .embedAuthor_b0068a {
+    background-color: #ffffff22;
+  }
+
+  .embedAuthorName_b0068a {
+    color: var(--rgb-text);
+  }
+}
