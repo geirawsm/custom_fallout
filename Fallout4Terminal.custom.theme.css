@@ -1,17 +1,21 @@
 :root,
 .theme-dark,
 .theme-light {
+  .embedTitle_b0068a {
+    background: rgba(74, 239, 152);
+    color: #000;
+  }
   .categoryHeader_fe2299 {
-    background: var(--rbg-text);
-    color: var(--rgb-highlight);
+    background: #082010;
+    color: #000;
   }
   .colorHeaderPrimary_d1aa77 {
     background: var(--bg-brand);
     color: var(--background);
   }
   .inner_c69a7b {
-    --profile-gradient-start: #000000;
-    --profile-gradient-end: #000000;
+    --profile-gradient-start: #000;
+    --profile-gradient-end: #000;
   }
   .outer_c69a7b {
     --profile-gradient-primary-color: var(--rgb-text);
@@ -21,9 +25,8 @@
   }
   .embedAuthor_b0068a {
     background-color: #ffffff22;
-  }
-
-  .embedAuthorName_b0068a {
-    color: var(--rgb-text);
+    .embedAuthorName_b0068a {
+      color: var(---rgb-text);
+    }
   }
 }
