@@ -1,6 +1,22 @@
 :root,
 .theme-dark,
 .theme-light {
+  .container_b6cd66 {
+    background: #1e1e1e!important;
+    .message_b6cd66 {
+      color: var(--header-secondary)!important;
+    }
+    .resetButton_b6cd66 {
+      background: #f04747;
+      padding-left: 10px;
+      padding-right: 10px;
+      .contents_dd4f85 {
+        span {
+          color: #fff!important;
+        }
+      }
+    }
+  }
   .embedTitle_b0068a {
     background: rgba(74, 239, 152);
     color: #000;
