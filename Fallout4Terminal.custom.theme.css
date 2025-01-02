@@ -1,6 +1,9 @@
 :root,
 .theme-dark,
 .theme-light {
+  .embedFieldName_b0068a {
+    color: var(--rgb-text);
+  }
   .container_b6cd66 {
     background: #1e1e1e!important;
     .message_b6cd66 {
