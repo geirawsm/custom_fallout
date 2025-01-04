@@ -57,4 +57,14 @@
   .reactionMe_ec6b19 {
     border-width: 2px;
   }
+  .mentioned_d5deea {
+    .roleMention_f8f345{
+      background-color: #000000;
+    }
+  }
+  .roleMention_f8f345 {
+    color: var(--rgb-text);
+    background-color: #ffffff55;
+    font-weight: 1000;
+  }
 }
