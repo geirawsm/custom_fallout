@@ -50,6 +50,7 @@
   }
   .reaction_ec6b19 {
     background-color: rgba(74, 239, 152, 0.4)!important;
+    border-width: 2px;
   }
   .reactionCount_ec6b19 {
     color: var(--brand-500)!important;
