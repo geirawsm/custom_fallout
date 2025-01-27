@@ -68,4 +68,15 @@
     background-color: #ffffff55;
     font-weight: 1000;
   }
+  .executedCommand_f9f2ca .appLauncherOnboardingCommandName_f9f2ca {
+    color: #0e0e0e;
+    background-color: rgba(74, 239, 152, 0.6);
+  }
+  .errorIcon_ec7f0f {
+    color: #f04747;
+  }
+  .text-md\/normal_dc00ef {
+    color: #f04747!important;
+    font-weight: 600!important;
+  }
 }
